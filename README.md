@@ -11,3 +11,5 @@ It will be updated soon......
 |  HCN   |91.1%  |86.5%| | 
 |  HCN (re)| 91.5%| 86.4%| gtx 1070|
 |  HCN (re)| 91.6%| 86.5%| gtx 1080ti|
+|  HCN-P| 88.8%| 82.4%| gtx 1070|
+|  HCN-M| 87.8%| 82.0%| gtx 1070|
