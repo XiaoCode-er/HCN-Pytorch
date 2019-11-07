@@ -4,7 +4,7 @@ An unofficial pytorch implement of HCN and Two-stream CNN for skeleton-based act
 It will be updated soon......
 
 # Result
-|  model  |  cross view  |  cross sub |  gpu |
+|  model  |  cross view  |  cross subject |  gpu |
 | :---------: | :---------: |:---------:|:---------:|
 | Two Stream CNN | 89.3% |83.2%| |
 | Two stream CNN (re)| 89.1%|83.7%| gtx 1070|
